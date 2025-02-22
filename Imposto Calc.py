@@ -21,7 +21,7 @@ preco = float(input("Digite o faturamento mensal do seu estabelecimento: "))
 
 
 
-imposto_total = 24 * preco
+imposto_total = 2 * preco
 #calc
 
 print(f"o imposto total R$:",imposto_total)
